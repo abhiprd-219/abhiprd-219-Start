@@ -23,7 +23,7 @@ public class Questions {
 
     String question3(){
         /* 
-         * What datatype is expected to be returned in the "honk" method?
+         * What datatype is expected to   be returned in the "honk" method?
          */
         return "String";
     }
